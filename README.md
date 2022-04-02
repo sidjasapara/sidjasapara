@@ -30,7 +30,6 @@
 <a href="https://www.adobe.com/in/products/xd.html">&emsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/adobexd.svg" alt="XD" width="40" height="40"/></a>
 <br>
   
-  
 <h3 align="left">🟡 Statistics 📈</h3>
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sidjasapara&theme=highcontrast&show_icons=true" />
@@ -38,5 +37,5 @@
 </div>
 <br><br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=sidjasapara&theme=react-dark&hide_border=true)
+![github graph](https://activity-graph.herokuapp.com/graph?username=sidjasapara&theme=chartreuse-dark&hide_border=true)
 <br>
