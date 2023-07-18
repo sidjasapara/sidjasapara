@@ -12,6 +12,15 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" alt="java" height="55" />
 </div>
 
+## Tools:
+<p align="center"> 
+<a href="https://code.visualstudio.com/">&emsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/visualstudiocode.svg" alt="vscode" width="40" height="40"/></a>
+<a href="https://developer.android.com/studio?gclid=EAIaIQobChMIyveu0IL29gIVJJlmAh1uwQV6EAAYASAAEgLm5PD_BwE&gclsrc=aw.ds">&emsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/androidstudio.svg" alt="androidstudio" width="40" height="40"/></a>
+<a href="https://www.adobe.com/in/products/illustrator.html?sdid=SBNHMR64&mv=search&ef_id=EAIaIQobChMI0cXv44L29gIViphmAh3d0A74EAAYASAAEgIyj_D_BwE:G:s&s_kwcid=AL!3085!3!248235017690!e!!g!!illustrator!221172068!17525759348&gclid=EAIaIQobChMI0cXv44L29gIViphmAh3d0A74EAAYASAAEgIyj_D_BwE">&emsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/adobeillustrator.svg" alt="illustrator" width="40" height="40"/></a>
+<a href="https://www.adobe.com/in/products/photoshop.html?sdid=4NM897K2&mv=search&ef_id=EAIaIQobChMI4un69IL29gIVs51LBR0DvglTEAAYASAAEgJuoPD_BwE:G:s&s_kwcid=AL!3085!3!585601592766!e!!g!!photoshop!16470706475!133281435039&gclid=EAIaIQobChMI4un69IL29gIVs51LBR0DvglTEAAYASAAEgJuoPD_BwE">&emsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/adobephotoshop.svg" alt="photoshop" width="40" height="40"/></a>
+<a href="https://www.adobe.com/in/products/xd.html">&emsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/adobexd.svg" alt="XD" width="40" height="40"/></a>
+<br>
+
 ## Let's Connect:
 <div align="center">
 <a href="https://github.com/sidjasapara" target="_blank">
@@ -24,15 +33,6 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div>  
-
-## Tools:
-<p align="center"> 
-<a href="https://code.visualstudio.com/">&emsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/visualstudiocode.svg" alt="vscode" width="40" height="40"/></a>
-<a href="https://developer.android.com/studio?gclid=EAIaIQobChMIyveu0IL29gIVJJlmAh1uwQV6EAAYASAAEgLm5PD_BwE&gclsrc=aw.ds">&emsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/androidstudio.svg" alt="androidstudio" width="40" height="40"/></a>
-<a href="https://www.adobe.com/in/products/illustrator.html?sdid=SBNHMR64&mv=search&ef_id=EAIaIQobChMI0cXv44L29gIViphmAh3d0A74EAAYASAAEgIyj_D_BwE:G:s&s_kwcid=AL!3085!3!248235017690!e!!g!!illustrator!221172068!17525759348&gclid=EAIaIQobChMI0cXv44L29gIViphmAh3d0A74EAAYASAAEgIyj_D_BwE">&emsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/adobeillustrator.svg" alt="illustrator" width="40" height="40"/></a>
-<a href="https://www.adobe.com/in/products/photoshop.html?sdid=4NM897K2&mv=search&ef_id=EAIaIQobChMI4un69IL29gIVs51LBR0DvglTEAAYASAAEgJuoPD_BwE:G:s&s_kwcid=AL!3085!3!585601592766!e!!g!!photoshop!16470706475!133281435039&gclid=EAIaIQobChMI4un69IL29gIVs51LBR0DvglTEAAYASAAEgJuoPD_BwE">&emsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/adobephotoshop.svg" alt="photoshop" width="40" height="40"/></a>
-<a href="https://www.adobe.com/in/products/xd.html">&emsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/adobexd.svg" alt="XD" width="40" height="40"/></a>
-<br>
 
 ## Github Stats  
 <div align="center">
