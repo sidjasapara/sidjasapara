@@ -1,9 +1,10 @@
 <h1 align="center"> My name is Siddharth Jasapara, I am a 20-year-old CSE student 👨🏻‍🎓</h1>
 
 
-- 🔭 I’m currently working on Frontend Web Dev Projects
+- 🔭 I’m an aspiring Software Developer
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: Twitter - @_sid017
+- ⚡ Fun Fact: I like playing cricket 🏏
 
 ## Skills / Tech I have worked on: 
 <div align="center">
